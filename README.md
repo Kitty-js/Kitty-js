@@ -15,6 +15,22 @@ const kitty = {
   age: 25
 }
 ```
+
+```cpp
+#include <iostream>
+
+int main() {
+  std::cout << "Goodbye people";
+  
+  system("pause");
+  return 0;
+}
+```
+
+```py
+print("Goodbye World")
+
+```
 [![Kitty-js GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitty-js)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
