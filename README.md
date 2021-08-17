@@ -15,7 +15,7 @@ const kitty = {
   age: 25
 }
 ```
-[![Kitty-js GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitty-js)]
+[![Kitty-js GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitty-js)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Kitty-js/Kitty-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
