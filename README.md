@@ -4,13 +4,13 @@
 
 **I'm passionate about what I do, I've been interested in programming since I was 16 years old. My first line of code was when I was 17 years old in C. C was also the first programming language I learned.** 🖥️🖱️
 
-**I have knowledge in PHP, Java, Go, JavaScript, TypeScript, Python, C, C++, HTML and CSS. And I'm thinking about learning Rust, Kotlin and C#. The languages I work with the most are JavaScript, TypeScript and Python.** 💜
+**I have knowledge in PHP, Java, JavaScript, TypeScript, Python, C, C++, HTML and CSS. And I'm thinking about learning Rust, Kotlin and C#. The languages I work with the most are JavaScript, TypeScript and Python.** 💜
 
 ```js
 const kitty = {
   technologies: 'web',
   passions: ['web development', 'desktop applications', 'mobile applications'],
-  code: ['JavaScript', 'C++', 'C', 'Python', 'Java', 'TypeScript', 'HTML', 'CSS', 'PHP', 'Go'],
+  code: ['JavaScript', 'C++', 'C', 'Python', 'Java', 'TypeScript', 'HTML', 'CSS', 'PHP'],
   tools: [ReactJS, Node, Jest, Docker],
   age: 25
 }
