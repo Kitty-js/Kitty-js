@@ -12,7 +12,7 @@ const kitty = {
   passions: ['web development', 'desktop applications', 'mobile applications'],
   code: ['JavaScript', 'C++', 'C', 'Python', 'Java', 'TypeScript', 'HTML', 'CSS', 'PHP'],
   tools: [ReactJS, Node, Jest, Docker],
-  age: 25
+  age: 26
 }
 ```
 
