@@ -1,6 +1,6 @@
 ### Hi, I'm Abril 👋
 
-**Hello, my name is Abril, I'm 26 years old, I'm Spanish/Mexican, I was born in Barcelona, Spain; I currently live in Mexico. I work as a Freelancer ( Full-Stack Web Developer ), previously I worked as a Backend Developer, but I decided to become a Freelancer.**
+**Hello, my name is Abril, I'm 27 years old, I'm Spanish/Mexican, I was born in Barcelona, Spain; I currently live in Mexico. I work as a Freelancer ( Full-Stack Web Developer ), previously I worked as a Backend Developer, but I decided to become a Freelancer.**
 
 **I'm passionate about what I do, I've been interested in programming since I was 16 years old. My first line of code was when I was 17 years old in C. C was also the first programming language I learned.** 🖥️🖱️
 
@@ -12,7 +12,7 @@ const kitty = {
   passions: ['web development', 'desktop applications', 'mobile applications'],
   code: ['JavaScript', 'C++', 'C', 'Python', 'Java', 'TypeScript', 'HTML', 'CSS', 'PHP'],
   tools: [ReactJS, Node, Jest, Docker],
-  age: 26
+  age: 27
 }
 ```
 
